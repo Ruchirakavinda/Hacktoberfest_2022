@@ -18,8 +18,8 @@ It is back again the time of the year to celebrate Hacktoberfest. This repositor
 <li>Python</li>
 <br>
 <p>
-There are six different folders for each language. You have to create a new folder from your name and the issue number (Ishan-01) inside your prefered language folder and inside your folder you can add your solution for your task.
-When you commiting your changes/solution to the github create a new branch from your folder name (Ishan-01)
+There are six different folders for each language. You have to create a new folder from your name inside your prefered language folder and inside your folder you can add your solution for your task.
+When you commiting your changes/solution to the github create a new branch from your folder name 
 </p>
 
 ## Let's begin
@@ -60,4 +60,3 @@ git push origin my-new-branch
 
 10. Congratulations 🎉 you just made a pull request!
 
-<strong>Please be advise: After you completed your task don't close the issue</strong>
