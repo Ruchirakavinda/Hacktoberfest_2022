@@ -25,8 +25,9 @@ When you commiting your changes/solution to the github create a new branch from 
 ## Let's begin
 
 1. Complete the registartion over https://hacktoberfest.com/
-2. Fork this repository.
-3. Clone on your local machine.
+2. All information about how to paticipate in HacktoberFest 2022 ** TERMS AND CONDITION ** - https://hacktoberfest.com/participation/
+3. Fork this repository.
+4. Clone on your local machine.
 
 HTTPS
 ```bash
