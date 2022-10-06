@@ -1,0 +1,2 @@
+Instructions
+You can pick any given task (opened issue) and complete that task by using C# language and store it here in a seperate folder
