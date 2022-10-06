@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatform.uno%2Fblog%2Funo-platform-at-hacktoberfest-2022-prizes-and-how-to-participate%2F&psig=AOvVaw113QjTABLDDfox8hb9YBoe&ust=1665128101392000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiBgt2Ly_oCFQAAAAAdAAAAABAD" alt="image" /> </p>
+<p align="center"> <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1536x593.jpg" alt="image" /> </p>
 
 # Hacktoberfest 2022
 It is back again the time of the year to celebrate Hacktoberfest. This repository contains coding exercises that you can easily solve with basic knowledge in programming.
