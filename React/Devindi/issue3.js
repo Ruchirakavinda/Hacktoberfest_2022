@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 
 function MyForm() {
   const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
 
   return (
     <form>
@@ -10,6 +11,13 @@ function MyForm() {
         <input
           type="text" 
           value={name}
+          onChange={(e) => setName(e.target.value)}
+        />
+      </label>
+       <label>Enter your Email:
+        <input
+          type="email" 
+          value={email}
           onChange={(e) => setName(e.target.value)}
         />
       </label>
